@@ -1,4 +1,4 @@
-# Smile_Detection
+# Smile Detection
 
 Smile detection is a special task in facial expression analysis with various potential applications such as photo selection, user experience analysis, smiling payment and patient monitoring. Conventional approaches often extract low-level face descriptors and detect smile based on a strong binary classifier.
 
